@@ -45,7 +45,7 @@ repo sync
 
 
 ```
-lunch aosp_rpi5_car-bp1a-userdebug
+lunch aosp_veos_car-bp2a-userdebug
 ```
 
 7. Compile:
