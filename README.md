@@ -45,7 +45,7 @@ repo sync
 
 
 ```
-lunch aosp_veos_car-bp2a-userdebug
+lunch aosp_veos_car-trunk_staging-userdebug
 ```
 
 7. Compile:
